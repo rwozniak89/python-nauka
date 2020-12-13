@@ -1,0 +1,1 @@
+print(' to jest init.py')
